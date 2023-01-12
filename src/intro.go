@@ -28,7 +28,7 @@ func main() {
 			fmt.Print("Odd ")
 		}
 	}
-	//while loop .
+	//while loop . .
 	n := 0
 	for n < 5 {
 		fmt.Print(n)
