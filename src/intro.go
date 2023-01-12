@@ -20,7 +20,7 @@ func main() {
 	fmt.Printf("%v\n", a*math.Pi)
 	fmt.Printf("%v\n", float64((c))*math.Pi)
 
-	// for loop
+	// for loop .
 	for n := 0; n < 5; n++ {
 		if n%2 == 0 {
 			fmt.Print("Even ")
